@@ -1,0 +1,15 @@
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/bin/Debug/net6.0/actividad-2
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/bin/Debug/net6.0/actividad-2.deps.json
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/bin/Debug/net6.0/actividad-2.runtimeconfig.json
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/bin/Debug/net6.0/actividad-2.dll
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/bin/Debug/net6.0/actividad-2.pdb
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/actividad-2.csproj.AssemblyReference.cache
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/actividad-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/actividad-2.AssemblyInfoInputs.cache
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/actividad-2.AssemblyInfo.cs
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/actividad-2.csproj.CoreCompileInputs.cache
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/actividad-2.dll
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/refint/actividad-2.dll
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/actividad-2.pdb
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/actividad-2.genruntimeconfig.cache
+/Users/Nicoaimar/Library/CloudStorage/OneDrive-UNIVERSIDADBLASPASCAL/UTEL/Materias/Programación Estructurada/Semana-2/Actividad-2/actividad-2/obj/Debug/net6.0/ref/actividad-2.dll
